@@ -117,7 +117,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # CORS設定
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://new-blog-2ah9.onrender.com",
+    "https://blog-front-k46b.onrender.com",
 ]
 
 ALLOWED_HOSTS = [
